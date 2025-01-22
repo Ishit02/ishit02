@@ -1,5 +1,6 @@
-## Hi there 👋🏻, My name is Ishit
- I'm a final year BCA student interested in all things about AI, ML & Python!
+## Hi there 👋🏻 
+
+My name is Ishit. I'm a final year BCA student interested in all things about AI, ML & Python!
  - 🔭 I’m currently working on Object-Detection (Vehicle Vision) Project, uses AI-powered object detection to identify, locate, and track vehicles, pedestrians, and traffic signs in real-time video streams.
  - 👯 I’m looking to collaborate on Projects!
    - Send ideas to
