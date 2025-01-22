@@ -1,13 +1,16 @@
-## Hi there 👋
-
+## Hi there 👋🏻, My name is Ishit
+ I'm a final year BCA student interested in all things about AI, ML & Python!
+ - 🔭 I’m currently working on Object-Detection (Vehicle Vision) Project, uses AI-powered object detection to identify, locate, and track vehicles, pedestrians, and traffic signs in real-time video streams.
+ - 👯 I’m looking to collaborate on Projects!
+   - Send ideas to 
 <!--
 **Ishit02/ishit02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
